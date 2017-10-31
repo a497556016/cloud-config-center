@@ -1,0 +1,6 @@
+http-auth.url-patterns=/userInfo,/*,/abc
+
+
+weishop-server-id=weishop-server
+
+file.server.url=http://192.168.4.130:8080/file
